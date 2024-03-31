@@ -1,2 +1,3 @@
 # studentInfo---C
-It is a Student Information management system 
+It is a Student Information management system program
+
